@@ -71,6 +71,5 @@
 ---
 
 <p align="center">
-  <strong>TM_Znakomstva - твой путь к счастью в Туркменистане!</strong><br>
-  <img src="https://img.icons8.com/color/48/000000/turkmenistan.png" alt="Turkmenistan flag">
+  <strong>TM_Znakomstva - твой путь к счастью в Туркменистане!</strong>
 </p>
